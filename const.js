@@ -9,7 +9,6 @@ console.log(a)
 OUTPUT:
 WELCOME
 
-HelloWorld.js:6
 console.log(a)
             ^
 
